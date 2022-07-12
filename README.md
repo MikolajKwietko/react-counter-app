@@ -6,8 +6,9 @@ First project realised in React. Increment, reset and delete entries to simply c
 
 1. Open terminal
 2. Change directory to Counter app main folder
-3. Run npm start command
-4. App should open in new browser window on http://localhost:8080
+3. Run npm install command
+4. Run npm start command
+5. App should open in new browser window on http://localhost:8080
 
 ## Used in project
 - React 18
